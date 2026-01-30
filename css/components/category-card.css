@@ -9,7 +9,7 @@
 
 .category-card {
     position: relative;
-    width: 315px;
+    width: 295px;
     height: 500px;
     border-radius: 15px;
     overflow: hidden;
@@ -42,11 +42,11 @@
 }
 
 .moderno {
-    background: url(../../images/products/tênis\ moderno.jpg) no-repeat center;
+    background: url(../../images/products/cinza.jpg) no-repeat center;
     background-size: cover;
 }
 
 .futurista {
-    background: url(../../images/products/tênis\ futurista.jpg) no-repeat center;
+    background: url(../../images/products/roxo-laranja.jpg) no-repeat center;
     background-size: cover;
 }
