@@ -8,8 +8,8 @@ Projeto de loja fictícia de sapatos, desenvolvido como exercício de curso e pa
 
 📖 Sobre o projeto
 
-# O SyntaxWear simula a página inicial de uma loja online de calçados.
-# O objetivo principal foi praticar HTML5, CSS3 e principalmente a criação de layouts usando CSS Grid, além de treinar organização de código e responsividade.
+O SyntaxWear simula a página inicial de uma loja online de calçados.
+O objetivo principal foi praticar HTML5, CSS3 e principalmente a criação de layouts usando CSS Grid, além de treinar organização de código e responsividade.
 
 🚀 Tecnologias utilizadas
 
